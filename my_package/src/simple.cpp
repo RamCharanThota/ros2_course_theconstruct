@@ -17,5 +17,3 @@ int main(int argc, char *argv[]) {
   rclcpp::shutdown();
   return 0;
 }
-// This program creates an endless loop that repeats itself 2 times per second
-// (2Hz) until somebody presses Ctrl + C in the Shell
